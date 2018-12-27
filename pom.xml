@@ -34,7 +34,7 @@
 		    <url>http://34.218.47.21:8081/repository/maven-releases/</url>
 		</repository>
   	</distributionManagement>
-	
+
 <build>
     <plugins>
         <plugin>
